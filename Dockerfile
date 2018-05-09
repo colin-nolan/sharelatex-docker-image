@@ -1,6 +1,6 @@
 # Sharelatex Community Edition (sharelatex/sharelatex)
 
-FROM sharelatex/sharelatex-base:latest
+FROM colinnolan/sharelatex-base:latest
 
 ENV baseDir .
 
